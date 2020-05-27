@@ -31,7 +31,7 @@ body{
 .list{
   color:yellow;
 }
-.list:hover{
+#site_reserve:hover{
   background-color:orange;
 }
 .footer-contents p{
