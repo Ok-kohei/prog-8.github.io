@@ -1,5 +1,5 @@
 body{
-  background-image: url(IMG_2181.jpg);
+  background-image: url(IMG_2181.jpg)!important;
   background-size:cover;
   background-attachment: fixed;
   opacity:
